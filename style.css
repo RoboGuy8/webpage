@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: "giphy.gif";
+    background-size: cover;
+    text-emphasis-color: white;
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+#group-photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+#student-menu {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    background-color: #20e6bb;
+    border-radius: 20px;
+}
+
+#student-menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.profile-card {
+    margin: 50px;
+    padding: 20px;
+    border: 3px solid #04be9f;
+    border-radius: 20px;
+    background-color: #cfe6e6;
+    }
+    
+    .profile-card h2 {
+    color: #333;
+    }
+    
+footer {
+    align-content: end;
+    display: justify;
+    text-align: center;
+    padding: 20px;
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    border-width: 5px;
+    margin-top: 10px;
+    }
+

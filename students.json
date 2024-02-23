@@ -1,0 +1,20 @@
+[
+    {
+        "id":"student1",
+        "name":"Tomáš",
+        "bio":"Tomovo bio",
+        "photo":"Bobr1.jpg"
+    },
+    {
+        "id":"student2",
+        "name":"Jarda",
+        "bio":"Jardovo bio",
+        "photo":"Bobr2.jpg"
+    },
+    {
+        "id":"student3",
+        "name":"Martin",
+        "bio":"Martinovo bio",
+        "photo":"Bobr3.jpg"
+    }
+]
